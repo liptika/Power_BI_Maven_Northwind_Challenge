@@ -16,13 +16,13 @@ c. Rectifying spelling mistakes
 
 d. Datatype checking
 
-Loading the transformed data
+2. Loading the transformed data
 
-Defining the useful KPIs
+3. Defining the useful KPIs
 
-Reporting insightful chart with respect to target variable
+4. Reporting insightful chart with respect to target variable
 
-Adding slicers for filtering data visualization
+5. Adding slicers for filtering data visualization
 
 # ✔General Insights:
 
